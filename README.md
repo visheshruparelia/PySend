@@ -41,8 +41,11 @@ be an exception that if user is not connected to internet i.e if the user is on
 Hotspot type of network which doesn’t have connection but still has an IP
 address so that an exception will be raised asking for user to enter IP
 address manually.
--Server.py file will take port as a command line argument and Client.py
-will take Host’s IP and PORT as command line arguments.
+
+-Server.py file will take port as a command line argument and Client.py will take Host’s IP and PORT as command line arguments.
+
 -Can Send any type of file.
+
 -User Friendly.
+
 -Upto 1.5MBps transfer speed.
